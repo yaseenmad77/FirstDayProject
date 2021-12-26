@@ -47,6 +47,7 @@ public class AmazonAzusList extends BaseClass {
 		System.out.println("ALL AZUS LAPTOP PRICE----->"+lappr);
 		}
 		}
+		System.out.println("NEW BATCH CREATED");
 	quit();
 	}
 	
